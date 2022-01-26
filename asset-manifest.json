@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/mwitter/static/css/main.c6a57172.css",
-    "main.js": "/mwitter/static/js/main.b50da3e0.js",
-    "index.html": "/mwitter/index.html",
-    "main.c6a57172.css.map": "/mwitter/static/css/main.c6a57172.css.map",
-    "main.b50da3e0.js.map": "/mwitter/static/js/main.b50da3e0.js.map"
+    "main.css": "https://junojuno99.github.io/mwitter/static/css/main.c6a57172.css",
+    "main.js": "https://junojuno99.github.io/mwitter/static/js/main.6f5ec587.js",
+    "index.html": "https://junojuno99.github.io/mwitter/index.html",
+    "main.c6a57172.css.map": "https://junojuno99.github.io/mwitter/static/css/main.c6a57172.css.map",
+    "main.6f5ec587.js.map": "https://junojuno99.github.io/mwitter/static/js/main.6f5ec587.js.map"
   },
   "entrypoints": [
     "static/css/main.c6a57172.css",
-    "static/js/main.b50da3e0.js"
+    "static/js/main.6f5ec587.js"
   ]
 }
